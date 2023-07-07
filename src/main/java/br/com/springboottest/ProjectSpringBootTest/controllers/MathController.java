@@ -1,4 +1,4 @@
-package br.com.springboottest.ProjectSpringBootTest;
+package br.com.springboottest.ProjectSpringBootTest.controllers;
 
 import br.com.springboottest.ProjectSpringBootTest.converters.NumberConverter;
 import br.com.springboottest.ProjectSpringBootTest.exceptions.UnsupportedMathOperationException;
